@@ -1,0 +1,8 @@
+<!-- prueba-->
+<rule id="alexander" name="alex/alexander">
+ <pattern>
+  <token>alex</token>
+ </pattern>
+ <message>nombres propios</message>
+ <suggestion>Alexander</suggestion>
+</rule>
