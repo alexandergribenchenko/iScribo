@@ -1,0 +1,2781 @@
+<!--comment-->
+<rule id="abajo suscrito/suscrito" name="abajo suscrito/suscrito">
+ <pattern>
+  <token>abajo suscrito</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>suscrito</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="abajo suscrita/suscrita" name="abajo suscrita/suscrita">
+ <pattern>
+  <token>abajo suscrita</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>suscrita</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="abajo suscritos/suscritos" name="abajo suscritos/suscritos">
+ <pattern>
+  <token>abajo suscritos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>suscritos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="abajo suscritas/suscritas" name="abajo suscritas/suscritas">
+ <pattern>
+  <token>abajo suscritas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>suscritas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="acalorado de calor/acalorado" name="acalorado de calor/acalorado">
+ <pattern>
+  <token>acalorado de calor</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>acalorado</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="acalorada de calor/acalorada" name="acalorada de calor/acalorada">
+ <pattern>
+  <token>acalorada de calor</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>acalorada</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="acalorados de calor/acalorados" name="acalorados de calor/acalorados">
+ <pattern>
+  <token>acalorados de calor</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>acalorados</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="acaloradas de calor/acaloradas" name="acaloradas de calor/acaloradas">
+ <pattern>
+  <token>acaloradas de calor</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>acaloradas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="acceso de entrada/acceso" name="acceso de entrada/acceso">
+ <pattern>
+  <token>acceso de entrada</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>acceso</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="accesos de entrada/accesos" name="accesos de entrada/accesos">
+ <pattern>
+  <token>accesos de entrada</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>accesos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="accidente fortuito/accidente" name="accidente fortuito/accidente">
+ <pattern>
+  <token>accidente fortuito</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>accidente</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="accidentes fortuitos/accidentes" name="accidentes fortuitos/accidentes">
+ <pattern>
+  <token>accidentes fortuitos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>accidentes</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="actualmente en vigor/en vigor" name="actualmente en vigor/en vigor">
+ <pattern>
+  <token>actualmente en vigor</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>en vigor</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="adelantar un anticipo/un anticipo" name="adelantar un anticipo/un anticipo">
+ <pattern>
+  <token>adelantar un anticipo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>un anticipo</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="agua mojada/agua" name="agua mojada/agua">
+ <pattern>
+  <token>agua mojada</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>agua</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="aguas mojadas/aguas" name="aguas mojadas/aguas">
+ <pattern>
+  <token>aguas mojadas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>aguas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="aguador de agua/aguador" name="aguador de agua/aguador">
+ <pattern>
+  <token>aguador de agua</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>aguador</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="al final del todo/al final" name="al final del todo/al final">
+ <pattern>
+  <token>al final del todo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>al final</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="ambos dos/ambos" name="ambos dos/ambos">
+ <pattern>
+  <token>ambos dos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>ambos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="amigo personal/amigo" name="amigo personal/amigo">
+ <pattern>
+  <token>amigo personal</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>amigo</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="amiga personal/amiga" name="amiga personal/amiga">
+ <pattern>
+  <token>amiga personal</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>amiga</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="amigos personales/amigos" name="amigos personales/amigos">
+ <pattern>
+  <token>amigos personales</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>amigos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="amigas personales/amigas" name="amigas personales/amigas">
+ <pattern>
+  <token>amigas personales</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>amigas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="antecedente previo/antecedente" name="antecedente previo/antecedente">
+ <pattern>
+  <token>antecedente previo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>antecedente</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="antecedentes previos/antecedentes" name="antecedentes previos/antecedentes">
+ <pattern>
+  <token>antecedentes previos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>antecedentes</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="años de edad/años" name="años de edad/años">
+ <pattern>
+  <token>años de edad</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>años</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="árbol de madera/árbol" name="árbol de madera/árbol">
+ <pattern>
+  <token>árbol de madera</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>árbol</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="árboles de madera/árboles" name="árboles de madera/árboles">
+ <pattern>
+  <token>árboles de madera</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>árboles</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="asolearse en el sol/asolearse" name="asolearse en el sol/asolearse">
+ <pattern>
+  <token>asolearse en el sol</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>asolearse</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="aterido de frío /aterido" name="aterido de frío /aterido">
+ <pattern>
+  <token>aterido de frío </token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>aterido</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="aterida de frío/aterida" name="aterida de frío/aterida">
+ <pattern>
+  <token>aterida de frío</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>aterida</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="ateridos de frío/ateridos" name="ateridos de frío/ateridos">
+ <pattern>
+  <token>ateridos de frío</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>ateridos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="ateridas de frío/ateridas" name="ateridas de frío/ateridas">
+ <pattern>
+  <token>ateridas de frío</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>ateridas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="autopsia de un cadáver/autopsia" name="autopsia de un cadáver/autopsia">
+ <pattern>
+  <token>autopsia de un cadáver</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>autopsia</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="autopsias de cadáveres/autopsias" name="autopsias de cadáveres/autopsias">
+ <pattern>
+  <token>autopsias de cadáveres</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>autopsias</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="autoridad constituida/autoridad" name="autoridad constituida/autoridad">
+ <pattern>
+  <token>autoridad constituida</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>autoridad</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="autoridades constituidas/autoridades" name="autoridades constituidas/autoridades">
+ <pattern>
+  <token>autoridades constituidas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>autoridades</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="autosuicidio/suicidio" name="autosuicidio/suicidio">
+ <pattern>
+  <token>autosuicidio</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>suicidio</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="autosuicidios/suicidios" name="autosuicidios/suicidios">
+ <pattern>
+  <token>autosuicidios</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>suicidios</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="avanzar hacia adelante/avanzar" name="avanzar hacia adelante/avanzar">
+ <pattern>
+  <token>avanzar hacia adelante</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>avanzar</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="base fundamental/base" name="base fundamental/base">
+ <pattern>
+  <token>base fundamental</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>base</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="bases fundamentales/bases" name="bases fundamentales/bases">
+ <pattern>
+  <token>bases fundamentales</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>bases</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="beber líquido/beber" name="beber líquido/beber">
+ <pattern>
+  <token>beber líquido</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>beber</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="beber líquidos/beber" name="beber líquidos/beber">
+ <pattern>
+  <token>beber líquidos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>beber</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="blanco claro/blanco" name="blanco claro/blanco">
+ <pattern>
+  <token>blanco claro</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>blanco</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="brinca hacia arriba/brinca" name="brinca hacia arriba/brinca">
+ <pattern>
+  <token>brinca hacia arriba</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>brinca</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="buena ortografía/ortografía" name="buena ortografía/ortografía">
+ <pattern>
+  <token>buena ortografía</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>ortografía</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="buena panacea/panacea" name="buena panacea/panacea">
+ <pattern>
+  <token>buena panacea</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>panacea</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="buenas panaceas/panaceas" name="buenas panaceas/panaceas">
+ <pattern>
+  <token>buenas panaceas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>panaceas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="caída accidental/caída" name="caída accidental/caída">
+ <pattern>
+  <token>caída accidental</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>caída</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="caídas accidentales/caídas" name="caídas accidentales/caídas">
+ <pattern>
+  <token>caídas accidentales</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>caídas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="cama para dormir/cama" name="cama para dormir/cama">
+ <pattern>
+  <token>cama para dormir</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>cama</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="camas para dormir/camas" name="camas para dormir/camas">
+ <pattern>
+  <token>camas para dormir</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>camas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="caminar con los pies/caminar" name="caminar con los pies/caminar">
+ <pattern>
+  <token>caminar con los pies</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>caminar</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="campanear las campanas/campanear" name="campanear las campanas/campanear">
+ <pattern>
+  <token>campanear las campanas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>campanear</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="campus universitario/campus" name="campus universitario/campus">
+ <pattern>
+  <token>campus universitario</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>campus</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="campus universitarios/campus" name="campus universitarios/campus">
+ <pattern>
+  <token>campus universitarios</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>campus</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="cáncer maligno/cáncer" name="cáncer maligno/cáncer">
+ <pattern>
+  <token>cáncer maligno</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>cáncer</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="cánceres malignos/cánceres" name="cánceres malignos/cánceres">
+ <pattern>
+  <token>cánceres malignos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>cánceres</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="cantar canciones/cantar" name="cantar canciones/cantar">
+ <pattern>
+  <token>cantar canciones</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>cantar</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="casco protector/casco" name="casco protector/casco">
+ <pattern>
+  <token>casco protector</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>casco</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="cascos protectores/cascos" name="cascos protectores/cascos">
+ <pattern>
+  <token>cascos protectores</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>cascos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="cielo celeste/cielo" name="cielo celeste/cielo">
+ <pattern>
+  <token>cielo celeste</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>cielo</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="cielos celestes/cielos" name="cielos celestes/cielos">
+ <pattern>
+  <token>cielos celestes</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>cielos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="círculo redondo/círculo" name="círculo redondo/círculo">
+ <pattern>
+  <token>círculo redondo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>círculo</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="círculos redondos/círculos" name="círculos redondos/círculos">
+ <pattern>
+  <token>círculos redondos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>círculos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="claramente obvio/claramente" name="claramente obvio/claramente">
+ <pattern>
+  <token>claramente obvio</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>claramente</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="colofón final/colofón" name="colofón final/colofón">
+ <pattern>
+  <token>colofón final</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>colofón</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="colofones finales/colofones" name="colofones finales/colofones">
+ <pattern>
+  <token>colofones finales</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>colofones</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="comer comida/comer" name="comer comida/comer">
+ <pattern>
+  <token>comer comida</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>comer</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="comicios electorales/comicios" name="comicios electorales/comicios">
+ <pattern>
+  <token>comicios electorales</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>comicios</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="completamente abarrotado/abarrotado" name="completamente abarrotado/abarrotado">
+ <pattern>
+  <token>completamente abarrotado</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>abarrotado</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="completamente abarrotada/abarrotada" name="completamente abarrotada/abarrotada">
+ <pattern>
+  <token>completamente abarrotada</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>abarrotada</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="completamente abarrotados/abarrotados" name="completamente abarrotados/abarrotados">
+ <pattern>
+  <token>completamente abarrotados</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>abarrotados</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="completamente abarrotadas/abarrotadas" name="completamente abarrotadas/abarrotadas">
+ <pattern>
+  <token>completamente abarrotadas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>abarrotadas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="conclusión final/conclusión" name="conclusión final/conclusión">
+ <pattern>
+  <token>conclusión final</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>conclusión</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="conclusiones finales/conclusiones" name="conclusiones finales/conclusiones">
+ <pattern>
+  <token>conclusiones finales</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>conclusiones</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="conocer por primera vez/conocer" name="conocer por primera vez/conocer">
+ <pattern>
+  <token>conocer por primera vez</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>conocer</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="constelación de estrellas/constelación" name="constelación de estrellas/constelación">
+ <pattern>
+  <token>constelación de estrellas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>constelación</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="constelaciones de estrellas/constelaciones" name="constelaciones de estrellas/constelaciones">
+ <pattern>
+  <token>constelaciones de estrellas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>constelaciones</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="coordinados entre sí/coordinados" name="coordinados entre sí/coordinados">
+ <pattern>
+  <token>coordinados entre sí</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>coordinados</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="coordinadas entre sí/coordinadas" name="coordinadas entre sí/coordinadas">
+ <pattern>
+  <token>coordinadas entre sí</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>coordinadas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="copia exacta/copia" name="copia exacta/copia">
+ <pattern>
+  <token>copia exacta</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>copia</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="copias exactas/copias" name="copias exactas/copias">
+ <pattern>
+  <token>copias exactas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>copias</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="crema cremosa/crema" name="crema cremosa/crema">
+ <pattern>
+  <token>crema cremosa</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>crema</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="cremas cremosas/cremas" name="cremas cremosas/cremas">
+ <pattern>
+  <token>cremas cremosas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>cremas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="crespón negro/crespón" name="crespón negro/crespón">
+ <pattern>
+  <token>crespón negro</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>crespón</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="crepones negros/crespones" name="crepones negros/crespones">
+ <pattern>
+  <token>crepones negros</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>crespones</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="deambular sin rumbo/deambular" name="deambular sin rumbo/deambular">
+ <pattern>
+  <token>deambular sin rumbo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>deambular</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="desenlace final/desenlace" name="desenlace final/desenlace">
+ <pattern>
+  <token>desenlace final</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>desenlace</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="desenlaces finales/desenlaces" name="desenlaces finales/desenlaces">
+ <pattern>
+  <token>desenlaces finales</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>desenlaces</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="diario de todos los días/diario" name="diario de todos los días/diario">
+ <pattern>
+  <token>diario de todos los días</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>diario</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="dinero monetario/dinero" name="dinero monetario/dinero">
+ <pattern>
+  <token>dinero monetario</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>dinero</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="divisa extranjera/divisa" name="divisa extranjera/divisa">
+ <pattern>
+  <token>divisa extranjera</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>divisa</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="divisas extranjeras/divisas" name="divisas extranjeras/divisas">
+ <pattern>
+  <token>divisas extranjeras</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>divisas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="divisa monetaria/divisa" name="divisa monetaria/divisa">
+ <pattern>
+  <token>divisa monetaria</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>divisa</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="divisas monetarias/divisas" name="divisas monetarias/divisas">
+ <pattern>
+  <token>divisas monetarias</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>divisas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="doblar a muerto/doblar" name="doblar a muerto/doblar">
+ <pattern>
+  <token>doblar a muerto</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>doblar</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="edad longeva/longevo|longeva" name="edad longeva/longevo|longeva">
+ <pattern>
+  <token>edad longeva</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>longevo|longeva</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="edades longevas/Longevos|longevas" name="edades longevas/Longevos|longevas">
+ <pattern>
+  <token>edades longevas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>Longevos|longevas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="efluente líquido/efluente" name="efluente líquido/efluente">
+ <pattern>
+  <token>efluente líquido</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>efluente</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="efluentes líquidos/efluentes" name="efluentes líquidos/efluentes">
+ <pattern>
+  <token>efluentes líquidos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>efluentes</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="ejemplo paradigmático/ejemplo" name="ejemplo paradigmático/ejemplo">
+ <pattern>
+  <token>ejemplo paradigmático</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>ejemplo</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="ejemplos paradigmáticos/ejemplos" name="ejemplos paradigmáticos/ejemplos">
+ <pattern>
+  <token>ejemplos paradigmáticos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>ejemplos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="ejemplo práctico/ejemplo" name="ejemplo práctico/ejemplo">
+ <pattern>
+  <token>ejemplo práctico</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>ejemplo</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="ejemplos prácticos/ejemplos" name="ejemplos prácticos/ejemplos">
+ <pattern>
+  <token>ejemplos prácticos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>ejemplos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="embajada extranjera/embajada" name="embajada extranjera/embajada">
+ <pattern>
+  <token>embajada extranjera</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>embajada</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="embajadas extranjeras/embajadas" name="embajadas extranjeras/embajadas">
+ <pattern>
+  <token>embajadas extranjeras</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>embajadas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="embetunar con betún/embetunar" name="embetunar con betún/embetunar">
+ <pattern>
+  <token>embetunar con betún</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>embetunar</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="en sus propias manos/en sus manos" name="en sus propias manos/en sus manos">
+ <pattern>
+  <token>en sus propias manos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>en sus manos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="en vías de desarrollo/en desarrollo" name="en vías de desarrollo/en desarrollo">
+ <pattern>
+  <token>en vías de desarrollo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>en desarrollo</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="entrar adentro/entrar" name="entrar adentro/entrar">
+ <pattern>
+  <token>entrar adentro</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>entrar</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="entrar dentro/entrar" name="entrar dentro/entrar">
+ <pattern>
+  <token>entrar dentro</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>entrar</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="entrar para adentro /entrar" name="entrar para adentro /entrar">
+ <pattern>
+  <token>entrar para adentro </token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>entrar</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="erario público/erario" name="erario público/erario">
+ <pattern>
+  <token>erario público</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>erario</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="erarios públicos/erarios" name="erarios públicos/erarios">
+ <pattern>
+  <token>erarios públicos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>erarios</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="erradicar de raíz/erradicar" name="erradicar de raíz/erradicar">
+ <pattern>
+  <token>erradicar de raíz</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>erradicar</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="error involuntario/error" name="error involuntario/error">
+ <pattern>
+  <token>error involuntario</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>error</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="errores involuntarios/errores" name="errores involuntarios/errores">
+ <pattern>
+  <token>errores involuntarios</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>errores</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="escritorio para escribir/escritorio" name="escritorio para escribir/escritorio">
+ <pattern>
+  <token>escritorio para escribir</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>escritorio</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="escritorios para escribir/escritorios" name="escritorios para escribir/escritorios">
+ <pattern>
+  <token>escritorios para escribir</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>escritorios</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="esencial hincapié/hincapié" name="esencial hincapié/hincapié">
+ <pattern>
+  <token>esencial hincapié</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>hincapié</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="estafeta de correos/estafeta" name="estafeta de correos/estafeta">
+ <pattern>
+  <token>estafeta de correos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>estafeta</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="estafetas de correos/estafetas" name="estafetas de correos/estafetas">
+ <pattern>
+  <token>estafetas de correos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>estafetas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="estrella brillante/estrella" name="estrella brillante/estrella">
+ <pattern>
+  <token>estrella brillante</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>estrella</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="estrellas brillantes/estrellas" name="estrellas brillantes/estrellas">
+ <pattern>
+  <token>estrellas brillantes</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>estrellas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="exótico de oriente/exótico" name="exótico de oriente/exótico">
+ <pattern>
+  <token>exótico de oriente</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>exótico</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="exótica de oriente/exóticas" name="exótica de oriente/exóticas">
+ <pattern>
+  <token>exótica de oriente</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>exóticas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="exóticos de oriente/exóticos" name="exóticos de oriente/exóticos">
+ <pattern>
+  <token>exóticos de oriente</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>exóticos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="exóticas de oriente/exóticas" name="exóticas de oriente/exóticas">
+ <pattern>
+  <token>exóticas de oriente</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>exóticas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="exportar a otros países/exportar" name="exportar a otros países/exportar">
+ <pattern>
+  <token>exportar a otros países</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>exportar</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="facial de la cara/facial" name="facial de la cara/facial">
+ <pattern>
+  <token>facial de la cara</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>facial</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="faciales de la cara/faciales" name="faciales de la cara/faciales">
+ <pattern>
+  <token>faciales de la cara</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>faciales</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="falso pretexto/pretexto" name="falso pretexto/pretexto">
+ <pattern>
+  <token>falso pretexto</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>pretexto</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="falsos pretextos/pretextos" name="falsos pretextos/pretextos">
+ <pattern>
+  <token>falsos pretextos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>pretextos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="favorito a priori/favorito" name="favorito a priori/favorito">
+ <pattern>
+  <token>favorito a priori</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>favorito</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="favorita a priori/favorita" name="favorita a priori/favorita">
+ <pattern>
+  <token>favorita a priori</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>favorita</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="favoritos a priori/favoritos" name="favoritos a priori/favoritos">
+ <pattern>
+  <token>favoritos a priori</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>favoritos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="favoritas a priori/favoritas" name="favoritas a priori/favoritas">
+ <pattern>
+  <token>favoritas a priori</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>favoritas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="freír frituras/freír" name="freír frituras/freír">
+ <pattern>
+  <token>freír frituras</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>freír</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="freís fritangas/freír" name="freís fritangas/freír">
+ <pattern>
+  <token>freís fritangas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>freír</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="funcionario público/funcionario" name="funcionario público/funcionario">
+ <pattern>
+  <token>funcionario público</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>funcionario</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="funcionarios públicos/funcionarios" name="funcionarios públicos/funcionarios">
+ <pattern>
+  <token>funcionarios públicos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>funcionarios</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="gato felino/gato" name="gato felino/gato">
+ <pattern>
+  <token>gato felino</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>gato</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="gatos felinos/gatos" name="gatos felinos/gatos">
+ <pattern>
+  <token>gatos felinos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>gatos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="gira girando/gira" name="gira girando/gira">
+ <pattern>
+  <token>gira girando</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>gira</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="gobernante del gobierno/gobernante" name="gobernante del gobierno/gobernante">
+ <pattern>
+  <token>gobernante del gobierno</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>gobernante</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="gramo de peso/gramo" name="gramo de peso/gramo">
+ <pattern>
+  <token>gramo de peso</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>gramo</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="gramos de peso/gramos" name="gramos de peso/gramos">
+ <pattern>
+  <token>gramos de peso</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>gramos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="gritar alto/gritar" name="gritar alto/gritar">
+ <pattern>
+  <token>gritar alto</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>gritar</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="hacerme esto precisamente a mí/hacerme esto" name="hacerme esto precisamente a mí/hacerme esto">
+ <pattern>
+  <token>hacerme esto precisamente a mí</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>hacerme esto</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="heces fecales/heces" name="heces fecales/heces">
+ <pattern>
+  <token>heces fecales</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>heces</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="hecho real/hecho" name="hecho real/hecho">
+ <pattern>
+  <token>hecho real</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>hecho</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="hechos reales/hechos" name="hechos reales/hechos">
+ <pattern>
+  <token>hechos reales</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>hechos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="hecho práctico/hecho" name="hecho práctico/hecho">
+ <pattern>
+  <token>hecho práctico</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>hecho</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="hechos prácticos/hechos" name="hechos prácticos/hechos">
+ <pattern>
+  <token>hechos prácticos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>hechos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="hemorragia sanguínea/hemorragia" name="hemorragia sanguínea/hemorragia">
+ <pattern>
+  <token>hemorragia sanguínea</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>hemorragia</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="hemorragias sanguíneas/hemorragias" name="hemorragias sanguíneas/hemorragias">
+ <pattern>
+  <token>hemorragias sanguíneas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>hemorragias</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="hielo frío /hielo" name="hielo frío /hielo">
+ <pattern>
+  <token>hielo frío </token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>hielo</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="hijo varón/hijo" name="hijo varón/hijo">
+ <pattern>
+  <token>hijo varón</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>hijo</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="hijos varones/hijos" name="hijos varones/hijos">
+ <pattern>
+  <token>hijos varones</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>hijos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="hueco vacío/hueco" name="hueco vacío/hueco">
+ <pattern>
+  <token>hueco vacío</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>hueco</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="huecos vacíos/huecos" name="huecos vacíos/huecos">
+ <pattern>
+  <token>huecos vacíos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>huecos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="humedecer con agua/humedecer" name="humedecer con agua/humedecer">
+ <pattern>
+  <token>humedecer con agua</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>humedecer</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="improvisar sobre la marcha/improvisar" name="improvisar sobre la marcha/improvisar">
+ <pattern>
+  <token>improvisar sobre la marcha</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>improvisar</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="insistir reiteradamente/insistir" name="insistir reiteradamente/insistir">
+ <pattern>
+  <token>insistir reiteradamente</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>insistir</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="interrelacionados entre sí/interrelacionados" name="interrelacionados entre sí/interrelacionados">
+ <pattern>
+  <token>interrelacionados entre sí</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>interrelacionados</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="interrelacionadas entre sí/interrelacionadas" name="interrelacionadas entre sí/interrelacionadas">
+ <pattern>
+  <token>interrelacionadas entre sí</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>interrelacionadas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="introducirse dentro/introducirse" name="introducirse dentro/introducirse">
+ <pattern>
+  <token>introducirse dentro</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>introducirse</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="la mujer alpinista/la alpinista" name="la mujer alpinista/la alpinista">
+ <pattern>
+  <token>la mujer alpinista</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>la alpinista</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="las mujeres alpinistas/las alpinistas" name="las mujeres alpinistas/las alpinistas">
+ <pattern>
+  <token>las mujeres alpinistas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>las alpinistas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="lápiz para escribir/lápiz" name="lápiz para escribir/lápiz">
+ <pattern>
+  <token>lápiz para escribir</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>lápiz</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="lápices para escribir/lápices" name="lápices para escribir/lápices">
+ <pattern>
+  <token>lápices para escribir</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>lápices</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="lapso de tiempo/lapso" name="lapso de tiempo/lapso">
+ <pattern>
+  <token>lapso de tiempo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>lapso</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="lapsos de tiempo/lapsos" name="lapsos de tiempo/lapsos">
+ <pattern>
+  <token>lapsos de tiempo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>lapsos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="larga longevidad/longevidad" name="larga longevidad/longevidad">
+ <pattern>
+  <token>larga longevidad</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>longevidad</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="lleno completo/lleno" name="lleno completo/lleno">
+ <pattern>
+  <token>lleno completo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>lleno</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="losa de piedra/losa" name="losa de piedra/losa">
+ <pattern>
+  <token>losa de piedra</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>losa</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="losas de piedra/losas" name="losas de piedra/losas">
+ <pattern>
+  <token>losas de piedra</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>losas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="macedonia de frutas/macedonia" name="macedonia de frutas/macedonia">
+ <pattern>
+  <token>macedonia de frutas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>macedonia</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="macedonias de frutas/macedonias" name="macedonias de frutas/macedonias">
+ <pattern>
+  <token>macedonias de frutas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>macedonias</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="madre maternal/madre" name="madre maternal/madre">
+ <pattern>
+  <token>madre maternal</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>madre</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="madres maternales/madres" name="madres maternales/madres">
+ <pattern>
+  <token>madres maternales</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>madres</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="mala inquina/inquina" name="mala inquina/inquina">
+ <pattern>
+  <token>mala inquina</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>inquina</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="malas inquinas/inquinas" name="malas inquinas/inquinas">
+ <pattern>
+  <token>malas inquinas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>inquinas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="marcador para marcar/marcador" name="marcador para marcar/marcador">
+ <pattern>
+  <token>marcador para marcar</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>marcador</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="marcadores para marcar/marcadores" name="marcadores para marcar/marcadores">
+ <pattern>
+  <token>marcadores para marcar</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>marcadores</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="más mínimo/mínimo" name="más mínimo/mínimo">
+ <pattern>
+  <token>más mínimo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>mínimo</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="máximo clímax/clímax" name="máximo clímax/clímax">
+ <pattern>
+  <token>máximo clímax</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>clímax</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="medio ambiente/entorno" name="medio ambiente/entorno">
+ <pattern>
+  <token>medio ambiente</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>entorno</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="melodía sonora/melodía" name="melodía sonora/melodía">
+ <pattern>
+  <token>melodía sonora</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>melodía</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="melodías sonoras/melodías" name="melodías sonoras/melodías">
+ <pattern>
+  <token>melodías sonoras</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>melodías</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="mentira falsa/mentira" name="mentira falsa/mentira">
+ <pattern>
+  <token>mentira falsa</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>mentira</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="mentiras falsas/mentiras" name="mentiras falsas/mentiras">
+ <pattern>
+  <token>mentiras falsas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>mentiras</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="miel de abeja/miel" name="miel de abeja/miel">
+ <pattern>
+  <token>miel de abeja</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>miel</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="mitades iguales/mitades" name="mitades iguales/mitades">
+ <pattern>
+  <token>mitades iguales</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>mitades</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="monedero para monedas/monedero" name="monedero para monedas/monedero">
+ <pattern>
+  <token>monedero para monedas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>monedero</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="monederos para monedas/monederos" name="monederos para monedas/monederos">
+ <pattern>
+  <token>monederos para monedas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>monederos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="mundo mundial /mundo" name="mundo mundial /mundo">
+ <pattern>
+  <token>mundo mundial </token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>mundo</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="mundos mundiales/mundos" name="mundos mundiales/mundos">
+ <pattern>
+  <token>mundos mundiales</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>mundos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="muy extremo/extremo" name="muy extremo/extremo">
+ <pattern>
+  <token>muy extremo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>extremo</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="negro oscuro/negro" name="negro oscuro/negro">
+ <pattern>
+  <token>negro oscuro</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>negro</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="negros oscuros/negros" name="negros oscuros/negros">
+ <pattern>
+  <token>negros oscuros</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>negros</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="obsequio gratuito/obsequio" name="obsequio gratuito/obsequio">
+ <pattern>
+  <token>obsequio gratuito</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>obsequio</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="obsequios gratuitos/obsequios" name="obsequios gratuitos/obsequios">
+ <pattern>
+  <token>obsequios gratuitos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>obsequios</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="olvido involuntario/olvido" name="olvido involuntario/olvido">
+ <pattern>
+  <token>olvido involuntario</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>olvido</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="olvidos involuntarios/olvidos" name="olvidos involuntarios/olvidos">
+ <pattern>
+  <token>olvidos involuntarios</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>olvidos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="optimar al máximo/optimar" name="optimar al máximo/optimar">
+ <pattern>
+  <token>optimar al máximo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>optimar</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="optimizar al máximo/optimizar" name="optimizar al máximo/optimizar">
+ <pattern>
+  <token>optimizar al máximo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>optimizar</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="orquesta de música/orquesta" name="orquesta de música/orquesta">
+ <pattern>
+  <token>orquesta de música</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>orquesta</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="orquestas de música/orquestas" name="orquestas de música/orquestas">
+ <pattern>
+  <token>orquestas de música</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>orquestas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="par de dos/par" name="par de dos/par">
+ <pattern>
+  <token>par de dos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>par</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="pares de dos/pares" name="pares de dos/pares">
+ <pattern>
+  <token>pares de dos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>pares</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="paraguas para la lluvia/paraguas" name="paraguas para la lluvia/paraguas">
+ <pattern>
+  <token>paraguas para la lluvia</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>paraguas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="pared divisoria/pared" name="pared divisoria/pared">
+ <pattern>
+  <token>pared divisoria</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>pared</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="paredes divisorias/paredes" name="paredes divisorias/paredes">
+ <pattern>
+  <token>paredes divisorias</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>paredes</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="parte integrante/integrante" name="parte integrante/integrante">
+ <pattern>
+  <token>parte integrante</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>integrante</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="parte integrante/parte" name="parte integrante/parte">
+ <pattern>
+  <token>parte integrante</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>parte</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="partes integrantes/integrantes" name="partes integrantes/integrantes">
+ <pattern>
+  <token>partes integrantes</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>integrantes</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="partes integrantes/partes" name="partes integrantes/partes">
+ <pattern>
+  <token>partes integrantes</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>partes</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="particular idiosincrasia/idiosincrasia" name="particular idiosincrasia/idiosincrasia">
+ <pattern>
+  <token>particular idiosincrasia</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>idiosincrasia</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="peluca postiza/peluca" name="peluca postiza/peluca">
+ <pattern>
+  <token>peluca postiza</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>peluca</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="pelucas postizas/pelucas" name="pelucas postizas/pelucas">
+ <pattern>
+  <token>pelucas postizas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>pelucas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="perdurar en el tiempo/perdurar" name="perdurar en el tiempo/perdurar">
+ <pattern>
+  <token>perdurar en el tiempo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>perdurar</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="periodo de tiempo/periodo" name="periodo de tiempo/periodo">
+ <pattern>
+  <token>periodo de tiempo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>periodo</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="periodos de tiempo/periodos" name="periodos de tiempo/periodos">
+ <pattern>
+  <token>periodos de tiempo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>periodos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="período de tiempo/período" name="período de tiempo/período">
+ <pattern>
+  <token>período de tiempo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>período</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="períodos de tiempo/períodos" name="períodos de tiempo/períodos">
+ <pattern>
+  <token>períodos de tiempo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>períodos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="piel de cuero/cuero" name="piel de cuero/cuero">
+ <pattern>
+  <token>piel de cuero</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>cuero</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="pleno consenso/consenso" name="pleno consenso/consenso">
+ <pattern>
+  <token>pleno consenso</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>consenso</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="plenos consensos/consensos" name="plenos consensos/consensos">
+ <pattern>
+  <token>plenos consensos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>consensos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="polos opuestos/polos" name="polos opuestos/polos">
+ <pattern>
+  <token>polos opuestos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>polos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="posición de decúbito/decúbito" name="posición de decúbito/decúbito">
+ <pattern>
+  <token>posición de decúbito</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>decúbito</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="posiciones de decúbito/decúbito" name="posiciones de decúbito/decúbito">
+ <pattern>
+  <token>posiciones de decúbito</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>decúbito</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="prefijado de antemano/prefijado" name="prefijado de antemano/prefijado">
+ <pattern>
+  <token>prefijado de antemano</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>prefijado</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="prefijada de antemano/prefijada" name="prefijada de antemano/prefijada">
+ <pattern>
+  <token>prefijada de antemano</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>prefijada</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="prefijados de antemano/prefijados" name="prefijados de antemano/prefijados">
+ <pattern>
+  <token>prefijados de antemano</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>prefijados</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="prefijadas de antemano/prefijadas" name="prefijadas de antemano/prefijadas">
+ <pattern>
+  <token>prefijadas de antemano</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>prefijadas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="primero y único/único" name="primero y único/único">
+ <pattern>
+  <token>primero y único</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>único</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="primera y única/única" name="primera y única/única">
+ <pattern>
+  <token>primera y única</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>única</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="primeros y únicos/únicos" name="primeros y únicos/únicos">
+ <pattern>
+  <token>primeros y únicos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>únicos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="primeras y únicas/únicas" name="primeras y únicas/únicas">
+ <pattern>
+  <token>primeras y únicas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>únicas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="protagonista principal/protagonista" name="protagonista principal/protagonista">
+ <pattern>
+  <token>protagonista principal</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>protagonista</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="protagonistas principales/protagonistas" name="protagonistas principales/protagonistas">
+ <pattern>
+  <token>protagonistas principales</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>protagonistas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="puño cerrado/puño" name="puño cerrado/puño">
+ <pattern>
+  <token>puño cerrado</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>puño</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="puños cerrados/puños" name="puños cerrados/puños">
+ <pattern>
+  <token>puños cerrados</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>puños</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="querella criminal/querella" name="querella criminal/querella">
+ <pattern>
+  <token>querella criminal</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>querella</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="querellas criminales/querellas" name="querellas criminales/querellas">
+ <pattern>
+  <token>querellas criminales</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>querellas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="reconocido prestigio/prestigio" name="reconocido prestigio/prestigio">
+ <pattern>
+  <token>reconocido prestigio</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>prestigio</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="reconocidos prestigios/prestigios" name="reconocidos prestigios/prestigios">
+ <pattern>
+  <token>reconocidos prestigios</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>prestigios</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="relación amorosa/relación" name="relación amorosa/relación">
+ <pattern>
+  <token>relación amorosa</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>relación</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="relaciones amorosas/relaciones" name="relaciones amorosas/relaciones">
+ <pattern>
+  <token>relaciones amorosas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>relaciones</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="réplica exacta/réplica" name="réplica exacta/réplica">
+ <pattern>
+  <token>réplica exacta</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>réplica</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="réplicas exactas/réplicas" name="réplicas exactas/réplicas">
+ <pattern>
+  <token>réplicas exactas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>réplicas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="reservado exclusivamente a/reservado " name="reservado exclusivamente a/reservado ">
+ <pattern>
+  <token>reservado exclusivamente a</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>reservado </suggestion>
+</rule>
+
+<!--comment-->
+<rule id="resultado final/resultado" name="resultado final/resultado">
+ <pattern>
+  <token>resultado final</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>resultado</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="resultados finales/resultados" name="resultados finales/resultados">
+ <pattern>
+  <token>resultados finales</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>resultados</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="reto para el futuro/reto" name="reto para el futuro/reto">
+ <pattern>
+  <token>reto para el futuro</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>reto</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="retos para el futuro/retos" name="retos para el futuro/retos">
+ <pattern>
+  <token>retos para el futuro</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>retos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="rivera del río/ribera del río" name="rivera del río/ribera del río">
+ <pattern>
+  <token>rivera del río</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>ribera del río</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="rodeado por todas partes/rodeado" name="rodeado por todas partes/rodeado">
+ <pattern>
+  <token>rodeado por todas partes</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>rodeado</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="rodeada por todas partes/rodeada" name="rodeada por todas partes/rodeada">
+ <pattern>
+  <token>rodeada por todas partes</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>rodeada</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="rodeados por todas partes/rodeados" name="rodeados por todas partes/rodeados">
+ <pattern>
+  <token>rodeados por todas partes</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>rodeados</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="rodeadas por todas partes/rodeadas" name="rodeadas por todas partes/rodeadas">
+ <pattern>
+  <token>rodeadas por todas partes</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>rodeadas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="sal salada/sal" name="sal salada/sal">
+ <pattern>
+  <token>sal salada</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>sal</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="sales saladas/sales" name="sales saladas/sales">
+ <pattern>
+  <token>sales saladas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>sales</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="siempre y eternamente/siempre" name="siempre y eternamente/siempre">
+ <pattern>
+  <token>siempre y eternamente</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>siempre</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="siempre y eternamente/eternamente" name="siempre y eternamente/eternamente">
+ <pattern>
+  <token>siempre y eternamente</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>eternamente</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="soler a menudo/soler" name="soler a menudo/soler">
+ <pattern>
+  <token>soler a menudo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>soler</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="soler a menudo/a menudo" name="soler a menudo/a menudo">
+ <pattern>
+  <token>soler a menudo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>a menudo</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="sonrisa en los labios/sonrisa" name="sonrisa en los labios/sonrisa">
+ <pattern>
+  <token>sonrisa en los labios</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>sonrisa</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="sonrisas en los labios/sonrisas" name="sonrisas en los labios/sonrisas">
+ <pattern>
+  <token>sonrisas en los labios</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>sonrisas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="sorpresa inesperada/sorpresa" name="sorpresa inesperada/sorpresa">
+ <pattern>
+  <token>sorpresa inesperada</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>sorpresa</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="sorpresas inesperadas/sorpresas" name="sorpresas inesperadas/sorpresas">
+ <pattern>
+  <token>sorpresas inesperadas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>sorpresas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="tablao flamenco/tablao" name="tablao flamenco/tablao">
+ <pattern>
+  <token>tablao flamenco</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>tablao</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="tablaos flamencos/tablaos" name="tablaos flamencos/tablaos">
+ <pattern>
+  <token>tablaos flamencos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>tablaos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="totalmente gratuito/gratuito" name="totalmente gratuito/gratuito">
+ <pattern>
+  <token>totalmente gratuito</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>gratuito</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="totalmente gratuita/gratuita" name="totalmente gratuita/gratuita">
+ <pattern>
+  <token>totalmente gratuita</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>gratuita</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="totalmente gratuitos/gratuitos" name="totalmente gratuitos/gratuitos">
+ <pattern>
+  <token>totalmente gratuitos</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>gratuitos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="totalmente gratuitas/gratuitas" name="totalmente gratuitas/gratuitas">
+ <pattern>
+  <token>totalmente gratuitas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>gratuitas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="tregua y alto al fuego/tregua" name="tregua y alto al fuego/tregua">
+ <pattern>
+  <token>tregua y alto al fuego</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>tregua</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="treguas y alto al fuego/treguas" name="treguas y alto al fuego/treguas">
+ <pattern>
+  <token>treguas y alto al fuego</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>treguas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="tronco de madera/tronco" name="tronco de madera/tronco">
+ <pattern>
+  <token>tronco de madera</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>tronco</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="troncos de madera/troncos" name="troncos de madera/troncos">
+ <pattern>
+  <token>troncos de madera</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>troncos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="tuerto de un solo ojo/tuerto" name="tuerto de un solo ojo/tuerto">
+ <pattern>
+  <token>tuerto de un solo ojo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>tuerto</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="tuerta de un solo ojo/tuerta" name="tuerta de un solo ojo/tuerta">
+ <pattern>
+  <token>tuerta de un solo ojo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>tuerta</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="tuertos de un solo ojo/tuertos" name="tuertos de un solo ojo/tuertos">
+ <pattern>
+  <token>tuertos de un solo ojo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>tuertos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="tuertas de un solo ojo/tuertas" name="tuertas de un solo ojo/tuertas">
+ <pattern>
+  <token>tuertas de un solo ojo</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>tuertas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="una historia del pasado/una historia" name="una historia del pasado/una historia">
+ <pattern>
+  <token>una historia del pasado</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>una historia</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="unas historias del pasado/unas historias" name="unas historias del pasado/unas historias">
+ <pattern>
+  <token>unas historias del pasado</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>unas historias</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="una mujer alpinista/una alpinista" name="una mujer alpinista/una alpinista">
+ <pattern>
+  <token>una mujer alpinista</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>una alpinista</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="unas mujeres alpinistas/unas alpinistas" name="unas mujeres alpinistas/unas alpinistas">
+ <pattern>
+  <token>unas mujeres alpinistas</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>unas alpinistas</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="utopía inalcanzable/utopía" name="utopía inalcanzable/utopía">
+ <pattern>
+  <token>utopía inalcanzable</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>utopía</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="utopías inalcanzables/utopías" name="utopías inalcanzables/utopías">
+ <pattern>
+  <token>utopías inalcanzables</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>utopías</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="valorar positivamente/valorar" name="valorar positivamente/valorar">
+ <pattern>
+  <token>valorar positivamente</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>valorar</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="vendaval de viento/vendaval" name="vendaval de viento/vendaval">
+ <pattern>
+  <token>vendaval de viento</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>vendaval</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="vendavales de viento/vendavales" name="vendavales de viento/vendavales">
+ <pattern>
+  <token>vendavales de viento</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>vendavales</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="veredicto final/veredicto" name="veredicto final/veredicto">
+ <pattern>
+  <token>veredicto final</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>veredicto</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="veredictos finales/veredictos" name="veredictos finales/veredictos">
+ <pattern>
+  <token>veredictos finales</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>veredictos</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="volar por el aire/volar" name="volar por el aire/volar">
+ <pattern>
+  <token>volar por el aire</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>volar</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="volar por el aire/elevar en el aire" name="volar por el aire/elevar en el aire">
+ <pattern>
+  <token>volar por el aire</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>elevar en el aire</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="volar por el aire/explotar" name="volar por el aire/explotar">
+ <pattern>
+  <token>volar por el aire</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>explotar</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="volar por los aires/volar" name="volar por los aires/volar">
+ <pattern>
+  <token>volar por los aires</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>volar</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="volar por los aires/elevar en el aire" name="volar por los aires/elevar en el aire">
+ <pattern>
+  <token>volar por los aires</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>elevar en el aire</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="volar por los aires/explotar" name="volar por los aires/explotar">
+ <pattern>
+  <token>volar por los aires</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>explotar</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="volver a retomar/retomar" name="volver a retomar/retomar">
+ <pattern>
+  <token>volver a retomar</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>retomar</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="volver a retornar/retornar" name="volver a retornar/retornar">
+ <pattern>
+  <token>volver a retornar</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>retornar</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="yo mismo estuve presente/estuve presente" name="yo mismo estuve presente/estuve presente">
+ <pattern>
+  <token>yo mismo estuve presente</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>estuve presente</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="yo misma estuve presente/estuve presente" name="yo misma estuve presente/estuve presente">
+ <pattern>
+  <token>yo misma estuve presente</token>
+ </pattern>
+ <message>Redundancia</message>
+ <suggestion>estuve presente</suggestion>
+</rule>
+
