@@ -1,0 +1,8 @@
+<!--comment_replace-->
+<rule id="id_replace" name="name_replace">
+ <pattern>
+  <token>token_replace</token>
+ </pattern>
+ <message>message_replace</message>
+ <suggestion>sugestion_replace</suggestion>
+</rule>
