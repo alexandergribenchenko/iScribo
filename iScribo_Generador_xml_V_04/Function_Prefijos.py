@@ -1,4 +1,4 @@
-def xml_generator_V_04(path_excel, path_output):
+def xml_generator_prefijos(path_excel, path_output):
 
     import pandas as pd
 
@@ -10,6 +10,8 @@ def xml_generator_V_04(path_excel, path_output):
     contenido = handler.read()
 
     matriz_reemplazos = pd.read_excel(path_excel, engine='openpyxl', header=None)
+    matriz_reemplazos = matriz_reemplazos.applymap(lambda x: x.replace('–','-'))
+    matriz_reemplazos[1] = matriz_reemplazos[1].apply(lambda x: x.replace(' - ','-'))
 
     salida=''
     for index in range(len(matriz_reemplazos)-1):
@@ -27,14 +29,11 @@ def xml_generator_V_04(path_excel, path_output):
 
         # Entradas con casos diferentes
         token_replace_in = matriz_reemplazos[0][index]
-        if '-' in token_replace_in:
-            token_replace= '<token regexp="yes">'+token_replace_in.replace('-', '|')+'</token>'
-        else: 
-            token_replace=''
-            for x in token_replace_in.split():
-                token_replace+='<token>'+x+'</token>'+'\n'+'  '
-            token_replace = token_replace[:-3]
-
+        token_replace=''
+        for x in token_replace_in.split():
+            token_replace+='<token>'+x+'</token>'+'\n'+'  '
+        token_replace = token_replace[:-3]
+        
         suggestion_replace_in = matriz_reemplazos[1][index]
         if '-' in suggestion_replace_in:
             suggestion_replace=''

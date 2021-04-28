@@ -1,0 +1,36 @@
+<!--comment-->
+<rule id="cerca tuya/cerca de ti" name="cerca tuya/cerca de ti">
+ <pattern>
+  <token>acanto</token>
+  <token>terigio</token>
+ </pattern>
+ <message>Adverbio</message>
+ <suggestion>acantopterigio</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="cerca tuya/cerca de ti" name="cerca tuya/cerca de ti">
+ <pattern>
+  <token>acanto-terigio</token>
+ </pattern>
+ <message>Adverbio</message>
+ <suggestion>acantopterigio</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="cerca tuya/cerca de ti" name="cerca tuya/cerca de ti">
+ <pattern>
+  <token>acanto</token>
+  <token>-</token>
+  <token>terigio</token>
+ </pattern>
+ <message>Adverbio</message>
+ <suggestion>acantopterigio</suggestion>
+</rule>
+
+
+
+acanto–terigio
+
+acanto - terigio
+
