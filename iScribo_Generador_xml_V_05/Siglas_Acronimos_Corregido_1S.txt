@@ -1,0 +1,450 @@
+<!--comment-->
+<rule id="C.I.D.D.M.-2/CIDDM-2" name="C.I.D.D.M.-2/CIDDM-2">
+ <pattern>
+  <token>C.I.D.D.M.-2</token>
+ </pattern>
+ <message>Clasificación Internacional del Funcionamiento y la Discapacidad</message>
+ <suggestion>CIDDM-2</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="C. I. D. D. M. -2/CIDDM-2" name="C. I. D. D. M. -2/CIDDM-2">
+ <pattern>
+  <token>C.</token>
+  <token>I.</token>
+  <token>D.</token>
+  <token>D.</token>
+  <token>M.</token>
+  <token>-2</token>
+ </pattern>
+ <message>Clasificación Internacional del Funcionamiento y la Discapacidad</message>
+ <suggestion>CIDDM-2</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="C I D D M -2/CIDDM-2" name="C I D D M -2/CIDDM-2">
+ <pattern>
+  <token>C</token>
+  <token>I</token>
+  <token>D</token>
+  <token>D</token>
+  <token>M</token>
+  <token>-2</token>
+ </pattern>
+ <message>Clasificación Internacional del Funcionamiento y la Discapacidad</message>
+ <suggestion>CIDDM-2</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="Ciddm-2/CIDDM-2" name="Ciddm-2/CIDDM-2">
+ <pattern>
+  <token>Ciddm-2</token>
+ </pattern>
+ <message>Clasificación Internacional del Funcionamiento y la Discapacidad</message>
+ <suggestion>CIDDM-2</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="ciddm-2/CIDDM-2" name="ciddm-2/CIDDM-2">
+ <pattern>
+  <token>ciddm-2</token>
+ </pattern>
+ <message>Clasificación Internacional del Funcionamiento y la Discapacidad</message>
+ <suggestion>CIDDM-2</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="c.i.d.d.m.-2/CIDDM-2" name="c.i.d.d.m.-2/CIDDM-2">
+ <pattern>
+  <token>c.i.d.d.m.-2</token>
+ </pattern>
+ <message>Clasificación Internacional del Funcionamiento y la Discapacidad</message>
+ <suggestion>CIDDM-2</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="c. i. d. d. m. -2/CIDDM-2" name="c. i. d. d. m. -2/CIDDM-2">
+ <pattern>
+  <token>c.</token>
+  <token>i.</token>
+  <token>d.</token>
+  <token>d.</token>
+  <token>m.</token>
+  <token>-2</token>
+ </pattern>
+ <message>Clasificación Internacional del Funcionamiento y la Discapacidad</message>
+ <suggestion>CIDDM-2</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="c i d d m -2/CIDDM-2" name="c i d d m -2/CIDDM-2">
+ <pattern>
+  <token>c</token>
+  <token>i</token>
+  <token>d</token>
+  <token>d</token>
+  <token>m</token>
+  <token>-2</token>
+ </pattern>
+ <message>Clasificación Internacional del Funcionamiento y la Discapacidad</message>
+ <suggestion>CIDDM-2</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="Ciddm-2./CIDDM-2" name="Ciddm-2./CIDDM-2">
+ <pattern>
+  <token>Ciddm-2.</token>
+ </pattern>
+ <message>Clasificación Internacional del Funcionamiento y la Discapacidad</message>
+ <suggestion>CIDDM-2</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="ciddm-2./CIDDM-2" name="ciddm-2./CIDDM-2">
+ <pattern>
+  <token>ciddm-2.</token>
+ </pattern>
+ <message>Clasificación Internacional del Funcionamiento y la Discapacidad</message>
+ <suggestion>CIDDM-2</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="G.-5/G-5" name="G.-5/G-5">
+ <pattern>
+  <token>G.-5</token>
+ </pattern>
+ <message>Grupo de los Cinco</message>
+ <suggestion>G-5</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="G. -5/G-5" name="G. -5/G-5">
+ <pattern>
+  <token>G.</token>
+  <token>-5</token>
+ </pattern>
+ <message>Grupo de los Cinco</message>
+ <suggestion>G-5</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="G -5/G-5" name="G -5/G-5">
+ <pattern>
+  <token>G</token>
+  <token>-5</token>
+ </pattern>
+ <message>Grupo de los Cinco</message>
+ <suggestion>G-5</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="G-5./G-5" name="G-5./G-5">
+ <pattern>
+  <token>G-5.</token>
+ </pattern>
+ <message>Grupo de los Cinco</message>
+ <suggestion>G-5</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="g-5/G-5" name="g-5/G-5">
+ <pattern>
+  <token>g-5</token>
+ </pattern>
+ <message>Grupo de los Cinco</message>
+ <suggestion>G-5</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="g.-5/G-5" name="g.-5/G-5">
+ <pattern>
+  <token>g.-5</token>
+ </pattern>
+ <message>Grupo de los Cinco</message>
+ <suggestion>G-5</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="g. -5/G-5" name="g. -5/G-5">
+ <pattern>
+  <token>g.</token>
+  <token>-5</token>
+ </pattern>
+ <message>Grupo de los Cinco</message>
+ <suggestion>G-5</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="g -5/G-5" name="g -5/G-5">
+ <pattern>
+  <token>g</token>
+  <token>-5</token>
+ </pattern>
+ <message>Grupo de los Cinco</message>
+ <suggestion>G-5</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="g-5./G-5" name="g-5./G-5">
+ <pattern>
+  <token>g-5.</token>
+ </pattern>
+ <message>Grupo de los Cinco</message>
+ <suggestion>G-5</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="G.-7/G-7" name="G.-7/G-7">
+ <pattern>
+  <token>G.-7</token>
+ </pattern>
+ <message>Grupo de los Siete</message>
+ <suggestion>G-7</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="G. -7/G-7" name="G. -7/G-7">
+ <pattern>
+  <token>G.</token>
+  <token>-7</token>
+ </pattern>
+ <message>Grupo de los Siete</message>
+ <suggestion>G-7</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="G -7/G-7" name="G -7/G-7">
+ <pattern>
+  <token>G</token>
+  <token>-7</token>
+ </pattern>
+ <message>Grupo de los Siete</message>
+ <suggestion>G-7</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="G-7./G-7" name="G-7./G-7">
+ <pattern>
+  <token>G-7.</token>
+ </pattern>
+ <message>Grupo de los Siete</message>
+ <suggestion>G-7</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="g-7/G-7" name="g-7/G-7">
+ <pattern>
+  <token>g-7</token>
+ </pattern>
+ <message>Grupo de los Siete</message>
+ <suggestion>G-7</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="g.-7/G-7" name="g.-7/G-7">
+ <pattern>
+  <token>g.-7</token>
+ </pattern>
+ <message>Grupo de los Siete</message>
+ <suggestion>G-7</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="g. -7/G-7" name="g. -7/G-7">
+ <pattern>
+  <token>g.</token>
+  <token>-7</token>
+ </pattern>
+ <message>Grupo de los Siete</message>
+ <suggestion>G-7</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="g -7/G-7" name="g -7/G-7">
+ <pattern>
+  <token>g</token>
+  <token>-7</token>
+ </pattern>
+ <message>Grupo de los Siete</message>
+ <suggestion>G-7</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="g-7./G-7" name="g-7./G-7">
+ <pattern>
+  <token>g-7.</token>
+ </pattern>
+ <message>Grupo de los Siete</message>
+ <suggestion>G-7</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="G.-10/G-10" name="G.-10/G-10">
+ <pattern>
+  <token>G.-10</token>
+ </pattern>
+ <message>Grupo de los Diez</message>
+ <suggestion>G-10</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="G. -10/G-10" name="G. -10/G-10">
+ <pattern>
+  <token>G.</token>
+  <token>-10</token>
+ </pattern>
+ <message>Grupo de los Diez</message>
+ <suggestion>G-10</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="G -10/G-10" name="G -10/G-10">
+ <pattern>
+  <token>G</token>
+  <token>-10</token>
+ </pattern>
+ <message>Grupo de los Diez</message>
+ <suggestion>G-10</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="G-10./G-10" name="G-10./G-10">
+ <pattern>
+  <token>G-10.</token>
+ </pattern>
+ <message>Grupo de los Diez</message>
+ <suggestion>G-10</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="g-10/G-10" name="g-10/G-10">
+ <pattern>
+  <token>g-10</token>
+ </pattern>
+ <message>Grupo de los Diez</message>
+ <suggestion>G-10</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="g.-10/G-10" name="g.-10/G-10">
+ <pattern>
+  <token>g.-10</token>
+ </pattern>
+ <message>Grupo de los Diez</message>
+ <suggestion>G-10</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="g. -10/G-10" name="g. -10/G-10">
+ <pattern>
+  <token>g.</token>
+  <token>-10</token>
+ </pattern>
+ <message>Grupo de los Diez</message>
+ <suggestion>G-10</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="g -10/G-10" name="g -10/G-10">
+ <pattern>
+  <token>g</token>
+  <token>-10</token>
+ </pattern>
+ <message>Grupo de los Diez</message>
+ <suggestion>G-10</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="G-10./G-10" name="G-10./G-10">
+ <pattern>
+  <token>G-10.</token>
+ </pattern>
+ <message>Grupo de los Diez</message>
+ <suggestion>G-10</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="G.-20/G-20" name="G.-20/G-20">
+ <pattern>
+  <token>G.-20</token>
+ </pattern>
+ <message>Grupo de los 20</message>
+ <suggestion>G-20</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="G. -20/G-20" name="G. -20/G-20">
+ <pattern>
+  <token>G.</token>
+  <token>-20</token>
+ </pattern>
+ <message>Grupo de los 20</message>
+ <suggestion>G-20</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="G -20/G-20" name="G -20/G-20">
+ <pattern>
+  <token>G</token>
+  <token>-20</token>
+ </pattern>
+ <message>Grupo de los 20</message>
+ <suggestion>G-20</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="G-20./G-20" name="G-20./G-20">
+ <pattern>
+  <token>G-20.</token>
+ </pattern>
+ <message>Grupo de los 20</message>
+ <suggestion>G-20</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="g-20/G-20" name="g-20/G-20">
+ <pattern>
+  <token>g-20</token>
+ </pattern>
+ <message>Grupo de los 20</message>
+ <suggestion>G-20</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="g.-20/G-20" name="g.-20/G-20">
+ <pattern>
+  <token>g.-20</token>
+ </pattern>
+ <message>Grupo de los 20</message>
+ <suggestion>G-20</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="g. -20/G-20" name="g. -20/G-20">
+ <pattern>
+  <token>g.</token>
+  <token>-20</token>
+ </pattern>
+ <message>Grupo de los 20</message>
+ <suggestion>G-20</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="g -20/G-20" name="g -20/G-20">
+ <pattern>
+  <token>g</token>
+  <token>-20</token>
+ </pattern>
+ <message>Grupo de los 20</message>
+ <suggestion>G-20</suggestion>
+</rule>
+
+<!--comment-->
+<rule id="g-20./G-20" name="g-20./G-20">
+ <pattern>
+  <token>g-20.</token>
+ </pattern>
+ <message>Grupo de los 20</message>
+ <suggestion>G-20</suggestion>
+</rule>
+
